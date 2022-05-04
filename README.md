@@ -9,5 +9,5 @@
 | CVE-2018-19571 | gitlab  | SSRF，CRLFInjection | [gitlab](https://gitlab.com/gitlab-org/gitlab/-/issues/8438),[hackone](https://hackerone.com/reports/441090) |       |
 | CVE-2021-32408 | gogs    | SSRF                | 原理同CVE-2018-19571                                         | 39.1k |
 | CVE-2022-0870  | gogs    | SSRF                | [go-cves](CVE-2022-0415/CVE-2022-0415.md)                    | 39.1k |
-| CVE-2022-1058  | gitre   | open redirect       | [go-cves](CVE-2022-1058/CVE-2022-1058.md)                    | 29.7k |
+| CVE-2022-1058  | gitea   | open redirect       | [go-cves](CVE-2022-1058/CVE-2022-1058.md)                    | 29.7k |
 
