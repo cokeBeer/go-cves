@@ -13,4 +13,4 @@
 | CVE-2022-27313 | gitea    | arbitrary file deletion      | [go-cves](CVE-2022-27313/CVE-2022-27313.md)                  | 29.7k |
 | CVE-2022-0664  | netmaker | hard-coded cryptographic key | [go-cves](CVE-2022-0664/CVE-2022-0664.md)                    | 3.8k  |
 |                | doctron  | path traversal               | [go-cves](doctron-path-traversal/doctron-path-traversal.md)  | 266   |
-
+| CVE-2022-24842 | minio    | privilege escalation         | [go-cves](CVE-2022-24842/CVE-2022-24842.md)                  | 33k   |
