@@ -14,6 +14,7 @@
 | CVE-2022-0664  | netmaker | hard-coded cryptographic key | [go-cves](CVE-2022-0664/CVE-2022-0664.md)                    | 3.8k  |
 |                | doctron  | path traversal               | [go-cves](doctron-path-traversal/doctron-path-traversal.md)  | 266   |
 | CVE-2022-24842 | minio    | privilege escalation         | [go-cves](CVE-2022-24842/CVE-2022-24842.md)                  | 33k   |
-| CVE-2021-21287 | minio    | SSRF                         | [phithon](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) | 33k   |
+| CVE-2021-21287 | minio    | SSRF                         | [@phithon](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) | 33k   |
 | CVE-2020-11012 | minio    | privilege escalation         | [go-cves](CVE-2020-11012/CVE-2020-11012.md)                  | 33k   |
 | CVE-2021-43858 | minio    | privilege escalation         | [go-cves](CVE-2021-43858/CVE-2021-43858.md)                  | 33k   |
+| CVE-2021-43798 | grafana  | path traversal               | [@jovsec](https://j0vsec.com/post/cve-2021-43798/)           | 48.7k |
