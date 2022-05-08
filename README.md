@@ -1,5 +1,6 @@
 # go-cves
-收录go语言编写的框架、组件出现的cve，或者一些相关的利用方式的文章
+收录go语言编写的框架、组件出现的cve，或者一些相关的利用方式的文章。
+
 ## content
 
 | 漏洞名称       | repo     | 漏洞类型                     | 参考文章                                                     | star  |
@@ -18,3 +19,7 @@
 | CVE-2020-11012 | minio    | privilege escalation         | [go-cves](CVE-2020-11012/CVE-2020-11012.md)                  | 33k   |
 | CVE-2021-43858 | minio    | privilege escalation         | [go-cves](CVE-2021-43858/CVE-2021-43858.md)                  | 33k   |
 | CVE-2021-43798 | grafana  | path traversal               | [@jovsec](https://j0vsec.com/post/cve-2021-43798/)           | 48.7k |
+| CVE-2019-11229 | gitea    | RCE                          | [@lz1y](https://xz.aliyun.com/t/5788)                        | 29.7k |
+| CVE-2018-18925 | gitea    | RCE                          | [@phithon](https://www.leavesongs.com/PENETRATION/gitea-remote-command-execution.html) | 29.7k |
+| CVE-2018-18926 | gitea    | RCE                          | [@phithon](https://www.leavesongs.com/PENETRATION/gitea-remote-command-execution.html) | 29.7k |
+
