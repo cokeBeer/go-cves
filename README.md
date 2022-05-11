@@ -22,4 +22,5 @@
 | CVE-2019-11229 | gitea    | RCE                          | [@lz1y](https://xz.aliyun.com/t/5788)                        | 29.7k |
 | CVE-2018-18925 | gitea    | RCE                          | [@phithon](https://www.leavesongs.com/PENETRATION/gitea-remote-command-execution.html) | 29.7k |
 | CVE-2018-18926 | gitea    | RCE                          | [@phithon](https://www.leavesongs.com/PENETRATION/gitea-remote-command-execution.html) | 29.7k |
+| CVE-2021-30080 | beego    | access control bypass        | [go-cves](CVE-2021-30080/CVE-2021-30080.md)                  | 28.1k |
 
