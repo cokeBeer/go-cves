@@ -27,4 +27,5 @@
 | CVE-2022-29153 | consul       | SSRF                         | [go-cves](CVE-2022-29153/CVE-2022-29153.md)                  | 24.7k |
 | CVE-2021-39391 | beego        | XSS                          | [go-cves](CVE-2021-39391/CVE-2021-39391.md)                  | 28.1k |
 | CVE-2022-30781 | gitea        | RCE                          | [@E99p1ant](https://tttang.com/archive/1607/)                | 29.7k |
+| CVE-2022-24348 | argo-cd      | path traversal               | [apiiro](https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/) | 9.5k  |
 
