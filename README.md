@@ -30,4 +30,5 @@
 | CVE-2022-24348 | argo-cd      | path traversal               | [apiiro](https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/) | 9.5k  |
 | CVE-2022-1285  | gogs         | SSRF                         | [go-cves](CVE-2022-1285/CVE-2022-1285.md)                    | 40.3k |
 | CVE-2022-1996  | go-restful   | access control bypass        | [go-cves](CVE-2022-1996/CVE-2022-1996.md)                    | 4.5k  |
+| CVE-2022-29153 | caddy        | open redirect                | [go-cves](CVE-2022-29153/CVE-2022-29153.md)                  | 41.3k |
 
