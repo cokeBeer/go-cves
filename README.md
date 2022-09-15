@@ -31,4 +31,5 @@
 | CVE-2022-1285  | gogs         | SSRF                         | [go-cves](CVE-2022-1285/CVE-2022-1285.md)                    | 40.3k |
 | CVE-2022-1996  | go-restful   | access control bypass        | [go-cves](CVE-2022-1996/CVE-2022-1996.md)                    | 4.5k  |
 | CVE-2022-29718 | caddy        | open redirect                | [go-cves](CVE-2022-29718/CVE-2022-29718.md)                  | 41.3k |
+| CVE-2022-32190 | go           | path traversal               | [go-cves](CVE-2022-32190/CVE-2022-32190.md)                  | 104k  |
 
