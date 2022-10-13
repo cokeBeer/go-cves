@@ -32,4 +32,6 @@
 | CVE-2022-1996  | go-restful   | access control bypass        | [go-cves](CVE-2022-1996/CVE-2022-1996.md)                    | 4.5k  |
 | CVE-2022-29718 | caddy        | open redirect                | [go-cves](CVE-2022-29718/CVE-2022-29718.md)                  | 41.3k |
 | CVE-2022-32190 | go           | path traversal               | [go-cves](CVE-2022-32190/CVE-2022-32190.md)                  | 104k  |
+| CVE-2022-40082 | hertz        | path traversal               | [@ruokeqx](https://ruokeqx.gitee.io/posts/my_first_cve/)     | 1.4k  |
+| CVE-2022-40083 | echo         | open redirect                | [go-cves](CVE-2022-40083/CVE-2022-40083.md)                  | 24k   |
 
