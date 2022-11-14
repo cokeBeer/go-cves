@@ -34,4 +34,5 @@
 | CVE-2022-32190 | go           | path traversal               | [go-cves](CVE-2022-32190/CVE-2022-32190.md)                  | 104k  |
 | CVE-2022-40082 | hertz        | path traversal               | [@ruokeqx](https://ruokeqx.gitee.io/posts/my_first_cve/)     | 1.4k  |
 | CVE-2022-40083 | echo         | open redirect                | [go-cves](CVE-2022-40083/CVE-2022-40083.md)                  | 24k   |
+| CVE-2022-21701 | istio        | privilege escalation         | [@lazydog](https://www.anquanke.com/post/id/272528)          | 31.9k |
 
